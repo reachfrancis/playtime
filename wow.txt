@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is A6F2-5160
+
+ Directory of C:\Users\reach\playRepo\playtime
+
+10/27/2020  04:09 PM    <DIR>          .
+10/27/2020  04:09 PM    <DIR>          ..
+10/27/2020  04:01 PM               401 foo.cs
+10/27/2020  03:53 PM               354 readme.txt
+10/27/2020  04:09 PM                 0 wow.txt
+               3 File(s)            755 bytes
+               2 Dir(s)  55,373,377,536 bytes free
